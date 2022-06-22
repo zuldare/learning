@@ -1,4 +1,6 @@
-INSERT INTO ATHLETES (BIRTH_YEAR, FULL_NAME)
-VALUES ('1981', 'John');
-INSERT INTO ATHLETES (BIRTH_YEAR, FULL_NAME)
-VALUES ('2000', 'Eva');
+--
+--
+-- INSERT INTO athletes (birth_year, full_name)
+-- VALUES ('1981', 'John');
+-- INSERT INTO athletes (birth_year, full_name)
+-- VALUES ('2000', 'Eva');
